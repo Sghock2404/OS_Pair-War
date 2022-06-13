@@ -1,0 +1,2 @@
+C:\Users\hocka\OneDrive\Desktop\School\Fall_2021\Operating Systems\project1\Debug\project1.exe
+C:\Users\hocka\OneDrive\Desktop\School\Fall_2021\Operating Systems\project1\Debug\pthreadVC3d.dll
