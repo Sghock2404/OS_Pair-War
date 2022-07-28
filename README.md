@@ -1,4 +1,4 @@
-# OS_project1_PairWar
+# Pair War
 
 1. Overview 
 In this project, we are going to build a simulation of “Pair War”. Pair War is a simple card 
